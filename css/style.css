@@ -1,0 +1,27 @@
+h2 {
+	color: black;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: lighter;
+
+}
+.heading {
+	color: black;
+	text-align: left;
+}
+p {
+    display: block;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
+    margin-left: 220px;
+    margin-right: 220px;
+}
+.bg { 
+    background-image: url("images.jpeg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
